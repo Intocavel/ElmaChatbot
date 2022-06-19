@@ -19,7 +19,7 @@ Você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/Rev3rs1d/chesterbot.git
+$ git clone https://github.com/Intocavel/ElmaChatbot
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd chesterbot
